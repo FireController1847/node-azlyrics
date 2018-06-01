@@ -1,0 +1,42 @@
+{
+  "name": "azlyrics",
+  "version": "1.0.0",
+  "description": "Scrapes the AZLyrics website for lyrics. Simple to use and easy API.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FireController1847/node-azlyrics.git"
+  },
+  "keywords": [
+    "azlyrics",
+    "lyrics",
+    "lyric",
+    "song",
+    "lyrics",
+    "music",
+    "lyrics",
+    "azlyrics",
+    "api",
+    "lyrics",
+    "api"
+  ],
+  "author": "FireController1847",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/FireController1847/node-azlyrics/issues"
+  },
+  "homepage": "https://github.com/FireController1847/node-azlyrics#readme",
+  "engines": {
+    "node": ">=6.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "snekfetch": "^3.6.4"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
